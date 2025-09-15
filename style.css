@@ -5,8 +5,22 @@
     font-family: 'Poppins', sans-serif;
 }
 
+
 body{
     background: #262a2f;
+}
+
+a{
+    color: #6681ee;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 20px;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+   transform: translate(-50%, -50%);
+   
 }
 
 .container, .stopwatch{
